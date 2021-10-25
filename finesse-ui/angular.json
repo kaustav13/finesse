@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "finesse-ui"
+    }
+  },
+  "defaultProject": "finesse-ui",
+  "cli": {
+    "analytics": false
+  }
 }
